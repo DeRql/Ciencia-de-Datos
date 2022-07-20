@@ -1,0 +1,1 @@
+<b><h2>🎏 En el presente archivo ipynb (jupiter notebook), se explicará, detallará, el ánalisis de datos reales de Fútbol (Premier League) con el uso de la libreria pandas en el lenguaje de programación Python</h1></b>
